@@ -1,2 +1,3 @@
 Create title
 Put bg
+add texts
